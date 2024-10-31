@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/exFaker/exFaker/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/exFaker/exFaker/output/snake.svg](https://github.com/exFaker/exFaker/blob/main/cobrinha.yml" alt="Snake animation" />
 
 ###
 
